@@ -9,3 +9,4 @@ edition = "2021"
 exclude = [".github"]
 
 [dependencies]
+tty-interface = "4"
